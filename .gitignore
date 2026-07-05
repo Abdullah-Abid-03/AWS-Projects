@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+
+# Environment variables
+.env
+
+# Pictures
+All in One.png
+AWS Lambda.png
+SNS Email.png
+
+# Docs
+*.docx
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
