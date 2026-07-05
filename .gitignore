@@ -10,9 +10,9 @@ venv/
 .env
 
 # Pictures
-All in One.png
-AWS Lambda.png
-SNS Email.png
+! All in One.png
+! AWS Lambda.png
+! SNS Email.png
 
 # Docs
 *.docx
