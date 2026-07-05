@@ -4,6 +4,7 @@ Simple Flask web application for Project 2 - Linux Server Setup on EC2
 Demonstrates basic web server running on EC2 with security best practices
 """
 
+import utils.session
 from flask import Flask, render_template_string
 import socket
 import os

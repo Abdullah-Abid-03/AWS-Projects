@@ -7,18 +7,16 @@ venv/
 .env/
 
 # Environment variables
-.env
 
 # Pictures
-All in One.png
-AWS Lambda.png
-SNS Email.png
+! All in One.png
+! AWS Lambda.png
+! SNS Email.png
 
 # Docs
 *.docx
 
 # VS Code settings
-.vscode/
 
 # Logs
 *.log
@@ -28,3 +26,5 @@ SNS Email.png
 
 # Windows
 Thumbs.db
+config.bat
+node_modules
